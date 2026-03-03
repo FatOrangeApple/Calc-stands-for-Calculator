@@ -20,11 +20,10 @@ double divide(double a, double b){
     return (a / b);
 }
 
-
-double num1, num2;
-char op;
-
 int main(){
+
+    double num1, num2;
+    char op;
 
     std::cout << std::fixed << std::setprecision(2);
     
